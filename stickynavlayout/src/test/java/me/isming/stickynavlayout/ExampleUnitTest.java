@@ -1,4 +1,4 @@
-package me.isming.stickynavlayout;
+package me.isming.demo;
 
 import org.junit.Test;
 

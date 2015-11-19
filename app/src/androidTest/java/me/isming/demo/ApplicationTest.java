@@ -1,4 +1,4 @@
-package me.isming.stickynavlayout;
+package me.isming.demo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
